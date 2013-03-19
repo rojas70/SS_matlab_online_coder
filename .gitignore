@@ -15,3 +15,6 @@
 # MATLABs asv
 *.asv
 *.mat
+*.fig
+*.bak
+*.m~
